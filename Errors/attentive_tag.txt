@@ -1,0 +1,8 @@
+Line number 86:"[Attentive Tag]: SignUp Source Id is required for subscribe event"
+Line number 102:"[Attentive Tag] :: Either email or phone is required",      400
+Line number 112:"[Attentive Tag] :: Event name is not present", 400 
+Line number 118:"[Attentive_Tag]: Events must be sent within 12 hours of their occurrence.",      400
+Line number 175:"[Attentive Tag]:The event name contains characters which is not allowed",          400
+Line number 188:"[Attentive Tag] :: Either email or phone is required",      400
+Line number 198:"Message Type is not present. Aborting message.",      400
+Line number 210:"Message type not supported", 400 

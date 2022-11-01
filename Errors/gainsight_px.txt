@@ -1,0 +1,10 @@
+Line number 43:"userId or anonymousId is required for identify",      400
+Line number 108:"userId or anonymousId is required for group", 400 
+Line number 117:`aborting group call: ${e}`, 400 
+Line number 122:"groupId is required for group", 400 
+Line number 164:`failed to update account for group: ${err}`, 400 
+Line number 174:`failed to create account for group: ${err}`, 400 
+Line number 244:"Message Type is not present. Aborting message.",      400
+Line number 249:"Invalid API Key. Aborting message.", 400 
+Line number 253:"product tag key is required", 400 
+Line number 270:`message type ${messageType} not supported`, 400 

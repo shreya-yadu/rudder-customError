@@ -1,0 +1,10 @@
+Line number 33:"userId is required for identify", 400 test
+Line number 92:"Event is not configured on your Rudderstack Dashboard",      400
+Line number 97:"userId is required.", 400 
+Line number 109:`user ${userId} doesnot exist`, 400 
+Line number 155:"userId is required.", 400 
+Line number 160:"Previous Id is required for alias.", 400 
+Line number 178:"User Id and Previous Id should be of same type i.e. phone/sms",      400
+Line number 198:"Message Type is not present. Aborting message.",      400
+Line number 202:"Inavalid API Key. Aborting message.", 400 
+Line number 219:`message type ${messageType} not supported`, 400 

@@ -1,0 +1,5 @@
+Line number 22:"[REVENUE CAT] X-Platform is required field.", 400 test
+Line number 88:ErrorMessage.FailedToConstructPayload, 400 
+Line number 132:"Message Type is not present. Aborting message.",      400
+Line number 138:"[REVENUE CAT] Public API Key required for Authentication.",      400
+Line number 151:`Message type ${messageType} not supported`, 400 

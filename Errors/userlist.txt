@@ -1,0 +1,2 @@
+Line number 48:'Missing required value from "userIdOnly"', 400 test
+Line number 60:`message type ${message.type} not supported for userlist`,        400

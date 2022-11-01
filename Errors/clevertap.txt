@@ -1,0 +1,5 @@
+Line number 124:"Unable to process without anonymousId or userId", 400 test
+Line number 215:"userId, not present cannot track anonymous user",        400
+Line number 270:"Payload could not be constructed", 400 
+Line number 279:"Message Type is not present. Aborting message.",      400
+Line number 298:"Message type not supported", 400 

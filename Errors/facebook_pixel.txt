@@ -1,0 +1,13 @@
+Line number 73:"Product is not an object. Event not sent", 400 test
+Line number 113:"Product is not an object. Event not sent", 400 
+Line number 231:"Invalid Action Source type", 400 
+Line number 250:"No properties for the event so the event cannot be sent.",        400
+Line number 305:"'query' should be in string format only",              400
+Line number 330:"This standard event does not exist", 400 
+Line number 375:"Category must be must be a string" 
+Line number 404:"Payload could not be constructed", 400 
+Line number 412:"Message Type is not present. Aborting message.",      400
+Line number 433:"[facebook_pixel]: Events must be sent within seven days of their occurrence or up to one minute in the future.",        400
+Line number 470:"Advanced Mapping is not on Rudder Dashboard. Identify events will not be sent.",          400
+Line number 478:"Event name is required", 400 
+Line number 539:"Message type not supported", 400 

@@ -1,0 +1,4 @@
+Line number 27:"userId or email is mandatory for this request", 400 test
+Line number 84:"Invalid page call", 400 
+Line number 115:"Invalid screen call", 400 
+Line number 313:"Message type not supported", 400 

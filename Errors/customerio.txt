@@ -1,0 +1,4 @@
+Line number 88:"userId not present", 400 test
+Line number 162:"Both userId and previousId is mandatory for merge operation",        400
+Line number 188:"userId or device_token not present", 400 
+Line number 286:`could not determine type ${messageType}`, 400 

@@ -1,0 +1,9 @@
+Line number 52:`SALESFORCE AUTH FAILED: ${JSON.stringify(        processedsfAuthResponse.response      )}`,      processedsfAuthResponse.status
+Line number 132:`SALESFORCE SEARCH BY ID: ${JSON.stringify(        processedsfSearchResponse.response      )}`,      processedsfSearchResponse.status
+Line number 191:"Invalid externalId. id, type, identifierType must be provided",        400
+Line number 222:"Invalid Email address for Lead Objet", 400 
+Line number 239:`During Lead Query: ${JSON.stringify(          processedLeadQueryResponse.response        )}`,        processedLeadQueryResponse.status
+Line number 248:"The contact has been deleted.", 400 
+Line number 250:"The lead has been deleted.", 400 
+Line number 286:"PROCESS IDENTIFY: Invalid traits for Salesforce request",      400
+Line number 335:`message type ${message.type} is not supported`, 400 

@@ -1,0 +1,6 @@
+Line number 62:"Event timestamp should be within last 5 years",        400
+Line number 78:"Event timestamp is older than 5 days and no apisecret is provided in destination config.",          400
+Line number 332:"Either previous id or anonymous id should be present in alias payload",      400
+Line number 399:"[MP] Group:: Group Key Settings is not configured",      400
+Line number 409:"Message Type is not present. Aborting message.",      400
+Line number 426:"message type not supported", 400 

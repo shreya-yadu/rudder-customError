@@ -1,0 +1,8 @@
+Line number 35:`[Yahoo_DSP]:: The only supported operation for audience updation '${DSP_SUPPORTED_OPERATION}' is not present`,      400
+Line number 57:`[Yahoo_DSP]:: seedListType is required for deviceId type audience and it should be any one of 'IDFA' and 'GPADVID'`,          400
+Line number 76:`[Yahoo_DSP]:: Audience Type "${audienceType}" is not supported`,        400
+Line number 85:`[Yahoo_DSP]:: access token is not available`, 400 
+Line number 101:"[Yahoo_DSP]:: Message Type is not present. Aborting message.",      400
+Line number 107:"[Yahoo_DSP]:: Message properties is not present. Aborting message.",      400
+Line number 113:"[Yahoo_DSP]:: listData is not present inside properties. Aborting message.",      400
+Line number 121:`[Yahoo_DSP]:: Message type ${message.type} not supoorted`,      400

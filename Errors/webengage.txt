@@ -1,0 +1,4 @@
+Line number 27:ErrorMessage.FailedToConstructPayload, 400 test
+Line number 33:"[WEBENGAGE]: Either one of userId or anonymousId is mandatory.",      400
+Line number 42:"[WEBENGAGE]: birthday must be in this (YYYY-MM-DD) format.",        400
+Line number 61:"[WEBENGAGE]: timestamp must be ISO format (YYYY-MM-DD).",        400

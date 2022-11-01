@@ -1,0 +1,7 @@
+Line number 59:"Public API Key is a required field for identify events",        400
+Line number 64:"Private API Key is a required field for identify events",        400
+Line number 136:"Public API Key is a required field for track events",      400
+Line number 154:"email or phone is required for customer_properties",        400
+Line number 238:"Private API Key is a required field for group events",      400
+Line number 308:"Message Type is not present. Aborting message.",      400
+Line number 329:"Message type not supported", 400 

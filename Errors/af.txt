@@ -1,0 +1,3 @@
+Line number 37:"Invalid app endpoint", 400 test
+Line number 56:"Appsflyer id is not set. Rejecting the event", 400 
+Line number 238:"message type not supported", 400 

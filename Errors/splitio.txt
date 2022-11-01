@@ -1,0 +1,4 @@
+Line number 36:"Payload could not be constructed", 400 test
+Line number 85:"Message type not supported", 400 
+Line number 88:"eventTypeId does not match with ideal format", 400 
+Line number 104:"Message Type is not present. Aborting message.",      400

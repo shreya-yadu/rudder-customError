@@ -1,0 +1,2 @@
+Line number 231:"Event name is required", 400 test
+Line number 239:"Message type is not supported", 400 

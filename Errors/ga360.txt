@@ -1,0 +1,12 @@
+Line number 133:`Invalid Url: ${documentUrl}`, 400 test
+Line number 516:"unknown ProductListEvent type", 400 
+Line number 565:"Empty Product List provided for Product List Viewed Event",        400
+Line number 602:"unknown ProductEvent type", 400 
+Line number 648:"unknown TransactionEvent type", 400 
+Line number 684:"No product information supplied for transaction event",      400
+Line number 722:"unknown TransactionEvent type", 400 
+Line number 745:"Message type is not present", 400 
+Line number 758:"server side identify is not on", 400 
+Line number 772:"Event name is not present/is not a string", 400 
+Line number 855:"message type not supported", 400 
+Line number 876:error.message || "Unknown error",      error.status || 400

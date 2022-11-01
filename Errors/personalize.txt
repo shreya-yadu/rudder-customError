@@ -1,0 +1,17 @@
+Line number 20:" Cannot process if no event name specified", 400 test
+Line number 27:"Tracking Id is a mandatory information to use putEvents",      400
+Line number 46:`Mapped property ${keyMap[key]} not found`, 400 
+Line number 62:`Null values cannot be sent for ${keyMap[key]} `,          400
+Line number 84:" EVENT_VALUE should be a float value", 400 
+Line number 122:"Dataset ARN is a mandatory information to use putItems"
+Line number 128:"Either Dataset ARN is not correctly entered or invalid",      400
+Line number 146:`Mapped property ${keyMap[key]} not found`, 400 
+Line number 159:"itemId is a mandatory property for using PutItems",      400
+Line number 182:`${eventOperation} is not supported for Track Calls`,        400
+Line number 197:`This Message Type does not support ${eventOperation}. Aborting message.`,      400
+Line number 203:"Dataset ARN is a mandatory information to use putUsers"
+Line number 210:"Either Dataset ARN is not correctly entered or invalid.",      400
+Line number 220:`Mapped property ${keyMap[key]} not found`, 400 
+Line number 231:"userId is a mandatory property for using PutUsers",      400
+Line number 249:"Message Type is not present. Aborting message.",      400
+Line number 261:"Message type not supported", 400 

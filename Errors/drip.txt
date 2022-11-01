@@ -1,0 +1,9 @@
+Line number 48:"dripId or email is required for the call", 400 test
+Line number 101:"Unable to create/update user.", 400 
+Line number 134:"Drip Id or email is required.", 400 
+Line number 139:"Event name is required", 400 
+Line number 149:"User creation mode is disabled and user does not exist. Track call aborted.",        400
+Line number 227:"Message Type is not present. Aborting message.",      400
+Line number 230:"Invalid Account Id. Aborting message.", 400 
+Line number 233:"Inavalid API Key. Aborting message.", 400 
+Line number 247:`message type ${messageType} not supported`, 400 

@@ -1,0 +1,3 @@
+Line number 76:"Message Type is not present. Aborting message.",      400
+Line number 83:"User id is absent. Aborting event as userId is mandatory for Appcues",      400
+Line number 116:"Message type is not supported", 400 

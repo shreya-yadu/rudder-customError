@@ -1,0 +1,16 @@
+Line number 39:"Event name is required", 400 test
+Line number 50:"[Google Analytics 4] track:: Reserved event names are not allowed",      400
+Line number 68:"ga4ClientId, anonymousId or messageId must be provided",          400
+Line number 81:"ga4AppInstanceId must be provided under externalId",          400
+Line number 85:"GA4: Invalid type of client", 400 
+Line number 173:`[GA4] Identify:: '${Config.generateLeadValueTrait}' is a required field in traits for 'generate_lead' event`,            400
+Line number 230:"[Google Analytics 4] track:: Reserved custom event names are not allowed",        400
+Line number 237:"[Google Analytics 4] track:: Reserved custom prefix names are not allowed",        400
+Line number 317:"Client type not found. Aborting ", 400 
+Line number 320:"API Secret not found. Aborting ", 400 
+Line number 323:"measurementId must be provided. Aborting", 400 
+Line number 326:"firebaseAppId must be provided. Aborting", 400 
+Line number 333:"Message Type is not present. Aborting message.",      400
+Line number 351:`[GA4] Identify:: traits should contain '${Config.newOrExistingUserTrait}' parameter with a boolean value to differentiate between the new or existing user`,            400
+Line number 373:"[GA4] Identify:: Server side identify is not enabled",          400
+Line number 390:`Message type ${messageType} not supported`, 400 

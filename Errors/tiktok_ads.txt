@@ -1,0 +1,7 @@
+Line number 88:"Invalid phone number. Include proper country code except +86. Aborting ",          400
+Line number 110:"Event name is required", 400 
+Line number 116:`Event name (${event}) is not valid`, 400 
+Line number 140:"Access Token not found. Aborting ", 400 
+Line number 144:"Pixel Code not found. Aborting", 400 
+Line number 151:"Message Type is not present. Aborting message.",      400
+Line number 162:`Message type ${messageType} not supported`, 400 

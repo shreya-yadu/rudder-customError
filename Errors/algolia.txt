@@ -1,0 +1,9 @@
+Line number 27:"event is required for track call", 400 test
+Line number 37:"eventType is mandatory for track call", 400 
+Line number 63:"length of objectId and position should be equal",          400
+Line number 69:"Either filters or  objectIds is required.", 400 
+Line number 75:"event can’t have both objectIds and filters at the same time.",      400
+Line number 97:"message Type is not present. Aborting message.",      400
+Line number 101:"Invalid Api Key", 400 
+Line number 104:"Invalid Application Id", 400 
+Line number 114:`message type ${messageType} not supported`, 400 

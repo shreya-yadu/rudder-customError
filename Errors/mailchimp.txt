@@ -1,0 +1,7 @@
+Line number 35:"The status must be one of [subscribed, unsubscribed, cleaned, pending, transactional]",      400
+Line number 50:"[Mailchimp] :: Email is required for identify", 400 
+Line number 64:"API Key not found. Aborting", 400 
+Line number 68:"Audience Id not found. Aborting", 400 
+Line number 72:"DataCenter Id not found. Aborting", 400 
+Line number 79:"Message Type is not present. Aborting message.",      400
+Line number 90:`message type ${messageType} is not supported`,        400

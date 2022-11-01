@@ -1,0 +1,1 @@
+Line number 41:"EventBridge: received empty config, dropping event",        400

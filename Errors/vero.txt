@@ -1,0 +1,3 @@
+Line number 115:"Message Type is not present. Aborting message.",      400
+Line number 120:"Auth Token required for Authentication.", 400 
+Line number 165:`Message type ${messageType} not supported`, 400 

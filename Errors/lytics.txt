@@ -1,0 +1,2 @@
+Line number 48:"invalid message type for lytics", 400 test
+Line number 67:`message type ${messageType} not supported for lytics`,        400

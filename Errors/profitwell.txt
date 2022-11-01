@@ -1,0 +1,11 @@
+Line number 31:"userId or userAlias is required for identify", 400 test
+Line number 46:"subscriptionId or subscriptionAlias is required for identify",      400
+Line number 103:"profitwell subscription_id not found", 400 
+Line number 118:"invalid format for planInterval. Aborting", 400 
+Line number 159:"invalid format for planInterval. Aborting", 400 
+Line number 192:`Failed to get subscription history for a user (${error.response.statusText})`,      res.response.response.status
+Line number 197:"no user found for profitwell user_id", 400 
+Line number 213:"invalid format for planInterval. Aborting", 400 
+Line number 244:"invalid message type. Aborting.", 400 
+Line number 248:"Private API Key not found. Aborting.", 400 
+Line number 259:`message type ${messageType} not supported`, 400 

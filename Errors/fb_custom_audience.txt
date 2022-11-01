@@ -1,0 +1,10 @@
+Line number 35:"context.destinationFields is required property for events mapped to destination ",      400
+Line number 62:`Payload could not be constructed`, 400 
+Line number 144:`The property ${userProperty} is not supported`,        400
+Line number 201:`Configured Schema field ${eachProperty} is missing in one or more user records`,          400
+Line number 309:"Message Type is not present. Aborting message.",      400
+Line number 314:"Batch size must be an Integer.", 400 
+Line number 317:` ${message.type} call is not supported `, 400 
+Line number 322:"Audience ID is a mandatory field", 400 
+Line number 341:"One or more of the schema fields are not supported",      400
+Line number 396:"missing valid parameters, unable to generate transformed payload",      400

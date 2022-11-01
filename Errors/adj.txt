@@ -1,0 +1,6 @@
+Line number 27:"Device type/id  not present", 400 test
+Line number 36:"Device type not valid", 400 
+Line number 87:"No event token mapped for this event", 400 
+Line number 89:"Payload could not be constructed", 400 
+Line number 98:"Message Type is not present. Aborting message.",      400
+Line number 107:"Message type not supported", 400 

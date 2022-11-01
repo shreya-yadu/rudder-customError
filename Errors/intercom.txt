@@ -1,0 +1,6 @@
+Line number 75:"Email or userId is mandatory", 400 test
+Line number 92:"Email or userId is mandatory", 400 
+Line number 110:"Message type not supported", 400 
+Line number 130:"Message Type is not present. Aborting message.",      400
+Line number 147:"Message type not supported", 400 
+Line number 172:error.message || "Unknown error",      error.status || 400

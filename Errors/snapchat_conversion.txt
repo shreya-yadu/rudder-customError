@@ -1,0 +1,9 @@
+Line number 62:"[Snapchat] :: Pixel Id is required for web and offline events",      400
+Line number 70:"[Snapchat] :: App Id is required for app events",        400
+Line number 75:"[Snapchat] :: Snap App Id is required for app events",        400
+Line number 183:`Event ${event} doesn't match with Snapchat Events!`,      400
+Line number 244:"At least one of email or phone or advertisingId or ip and userAgent is required",      400
+Line number 257:"[snapchat_conversion]: Events must be sent within 28 days of their occurrence.",        400
+Line number 303:"[Snapchat] :: Event name is required", 400 
+Line number 334:"Message Type is not present. Aborting message.",      400
+Line number 358:`Message type ${messageType} not supported`, 400 

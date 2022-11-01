@@ -1,0 +1,13 @@
+Line number 42:`[Trengo] :: ${event} is not present in Event-Map template keys, aborting event`,      400
+Line number 65:`[Trengo] :: Mandatory field for Channel-Identifier :${channelIdentifier} not present`,      400
+Line number 92:err.response.statusText, err.response.status 
+Line number 97:"[Trengo] :: Inside lookupContact, failed to make request",      500
+Line number 111:`[Trengo] :: Inside lookupContact, duplicates present for identifer : ${term}`,        400
+Line number 177:`[Trengo] :: LookupContact failed for term:${identifier} update failed, aborting as dedup option is enabled`,          400
+Line number 210:`[Trengo] :: LookupContact failed for term:${identifer} track event failed`,        400
+Line number 217:`[Trengo] :: No contact found for term:${identifer} track event failed`,        400
+Line number 236:`[Trengo] :: Error occured in parsing event template for ${message.event}`,          400
+Line number 275:"[Trengo] :: Cound not process event, missing mandatory field channelId",      400
+Line number 365:"Payload could not be constructed", 400 
+Line number 379:"Message Type is not present. Aborting message.", 400 
+Line number 383:"Message type not supported", 400 

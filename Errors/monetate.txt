@@ -1,0 +1,10 @@
+Line number 19:"[createObject] type not defined", 400 test
+Line number 163:`Missing required value from ${JSON.stringify(sourceKeys)}`,          400
+Line number 200:"'product_id' is a required field for Product Viewed",          400
+Line number 211:"'product_id' is a required field for all products for Product List Viewed",            400
+Line number 223:"'products' missing or not array in Product List Viewed",          400
+Line number 254:"'product_id', 'quantity', 'cart_value' are required fields and 'quantity' should be a number for Product Added",          400
+Line number 270:"'quantity', 'price' and 'product_id' are required fields and 'quantity' and 'price' should be a number for all products for Cart Viewed",            400
+Line number 304:"'quantity', 'price' and 'product_id' are required fields and 'quantity' and 'price' should be a number for all products for Order Completed",            400
+Line number 371:`Message type ${evType} not supported`, 400 
+Line number 374:"Message type missing from event", 400 

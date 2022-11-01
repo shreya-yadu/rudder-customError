@@ -1,0 +1,10 @@
+Line number 91:"listingId is required for identify", 400 test
+Line number 126:"Event name is required for track call.", 400 
+Line number 134:"Timestamp format must be ISO-8601", 400 
+Line number 141:"currency should be only 3 characters and must follow format ISO 4217.",        400
+Line number 158:"customer_id and email is required for order related event.",        400
+Line number 196:"Timestamp format must be ISO-8601", 400 
+Line number 218:`Message type is not defined`, 400 
+Line number 230:`message type ${messageType} not supported`, 400 
+Line number 244:"message Type is not present. Aborting message.",      400
+Line number 248:"Invalid Api Key", 400 

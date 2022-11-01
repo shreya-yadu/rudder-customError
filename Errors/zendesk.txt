@@ -1,0 +1,10 @@
+Line number 215:"user not found",        resp.status || resp.data.status || 400
+Line number 224:`Couldn't find user: ${name}`, error.status || 400 
+Line number 247:"User not found", 400 
+Line number 326:`Zendesk : UserId is a mandatory field for ${message.type}`,      400
+Line number 405:"email not found in traits.", 400 
+Line number 419:"user not found", 400 
+Line number 422:"user email not found", 400 
+Line number 473:`Couldn't create user membership for user having external id ${message.userId} as Organization ${message.traits.name} wasn't created`,        400
+Line number 490:"user is already associated with organization",        400
+Line number 526:"Message type not supported", 400 

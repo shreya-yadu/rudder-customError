@@ -1,0 +1,5 @@
+Line number 37:"The region is not valid", 400 test
+Line number 81:"Call type is not valid", 400 
+Line number 87:"Payload could not be constructed", 400 
+Line number 97:"Message Type is not present. Aborting message.",      400
+Line number 129:"Message type not supported", 400 

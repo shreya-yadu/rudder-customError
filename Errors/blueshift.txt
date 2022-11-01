@@ -1,0 +1,10 @@
+Line number 48:"[Blueshift] property:: event is required for track call",      400
+Line number 55:"[BLUESHIFT] event Api Keys required for Authentication.",      400
+Line number 61:ErrorMessage.FailedToConstructPayload, 400 
+Line number 73:"[Blueshift] Event shouldn't contain period(.), numeric value and contains not more than 64 characters",      400
+Line number 96:"[BLUESHIFT] User API Key required for Authentication.",      400
+Line number 102:ErrorMessage.FailedToConstructPayload, 400 
+Line number 130:"[BLUESHIFT] event API Key required for Authentication.",      400
+Line number 137:ErrorMessage.FailedToConstructPayload, 400 
+Line number 162:"Message Type is not present. Aborting message.",      400
+Line number 179:`Message type ${messageType} not supported`, 400 

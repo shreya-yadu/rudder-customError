@@ -1,0 +1,2 @@
+Line number 25:"Message type is not present. Aborting message.",      400
+Line number 56:`Message type ${message.type} is not supported`,        400

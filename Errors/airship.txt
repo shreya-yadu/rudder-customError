@@ -1,0 +1,9 @@
+Line number 36:"[Airship] :: API Key is required for authorization for Identify events",      400
+Line number 47:"[Airship]:: for identify, tags or attributes properties are required under traits",      400
+Line number 133:"event name is required for track", 400 
+Line number 160:"[Airship] :: App Key is required for authorization for track events",        400
+Line number 165:"[Airship] :: API Key is required for authorization for track events",        400
+Line number 198:"[Airship] :: API Key is required for authorization for group events",      400
+Line number 209:"[Airship]:: for group, tags or attributes properties are required under traits",      400
+Line number 297:"Message Type is not present. Aborting message.",      400
+Line number 314:`message type ${messageType} not supported`, 400 
